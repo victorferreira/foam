@@ -1,6 +1,6 @@
 # Next.js
 
-Next.js is a framework [[Javascript]] built on top of [[React]] that allows a SPA application to run using the [[Node.js]] runtime, allowing SPA apps to have SSR (server-side rendering).
+Next.js is a framework [[Javascript]] built on top of [[React]] that allows a SPA application to run using the [[node-js.md]] runtime, allowing SPA apps to have SSR (server-side rendering) and API endpoints in the same app.
 
 ## The API
 
