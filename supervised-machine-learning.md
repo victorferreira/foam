@@ -10,7 +10,7 @@ A label is the thing we're predicting — the `y` variable in a simple linear re
 
 ## Features
 
-A feature is an input variable — the `x` variable in a simple linear regretion. A simple machine learning project might use a single feature, while a more siphisticated machin learning project could use millions of features, specified as:
+A feature is an input variable — the `x` variable in a simple linear regretion. A simple machine learning project might use a single feature, while a more sophisticated machine learning project could use millions of features, specified as:
 
 $k_{x+1}$, $k_{n+2}$, ..., $k_{n}$
 
