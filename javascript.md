@@ -1,6 +1,11 @@
 # Javascript
 
-Javascript is a [programming language](programming-languages.md).
+Javascript is a multi-paradigm [programming language](programming-languages.md) created by Brandon Eich.
+
+
+## Event parsing
+https://github.com/neilgupta/Sherlock/
+
 
 ## Parsing JSON
 

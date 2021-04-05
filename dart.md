@@ -1,6 +1,6 @@
 # Dart
 
-Dart is a [programmin language](programming-languages.md)
+Dart is a [programming language](programming-languages.md)
 
 - [Official Docs](https://dart.dev/)
 - [Packages](https://pub.dev/)

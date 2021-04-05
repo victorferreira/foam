@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "ed9fce66ef51a24d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1648a6df431178e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "todo.md",
+            "mode": "source"
+          }
+        },
+        "group": "d47c1b90ffeb3910"
+      },
+      {
+        "id": "f88fbe9686b20f88",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "todo.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d47c1b90ffeb3910"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fd1e56521f35694",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ab7acddaaae028d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f46e60ba4546fe9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "04d0b69dde0399f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a6a3266a19624e76",
+    "type": "split",
+    "children": [
+      {
+        "id": "6411ac8671762d34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "456093a103eb6a2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "18441b19e6516ccd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "todo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "todo.md",
+    "Phoenix.md",
+    "Elixir.md",
+    "Phoenix JSON API.md",
+    "Phoenix Contexts.md",
+    "Postgres on Docker Compose.md",
+    "programming-languages.md",
+    "Dart.md",
+    "flutter.md",
+    "dart.md"
+  ]
+}

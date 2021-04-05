@@ -1,0 +1,1 @@
+Git is the best SCM ever!

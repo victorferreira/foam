@@ -1,72 +1,15 @@
 # Inbox
 
-## Copy this CSS for blog
-
-https://mariusschulz.com/articles/keyof-and-lookup-types-in-typescript
-
-## WebWorkers with [[React]]
-
-```Typescript
-// worker.js
-this.addEventListener("message", (event) => {
-  postMessage(fibonacci(event.data));
-});
-
-function fibonacci(num) {
-  if (num <= 1) return 1;
-  return fibonacci(num - 1) + fibonacci(num - 2);
-}
-```
-
-Then you can import your worker inside a component.
-
-```Typescript
-// Fibonacci.jsx
-const worker = new Worker("./worker.js");
-
-function Fibonacci() {
-  const [fibonacci, setFibonacci] = useState("");
-
-  const update = (e) => {
-    setFibonacci(e.data);
-  };
-
-  useEffect(() => {
-    worker.addEventListener("message", update);
-
-    return () => {
-      worker.removeEventListener("message", update);
-    };
-  }, []);
-
-  /* mais código aqui */
-}
-```
-
-Source: https://matheusml.com/web-worker-a-api-mais-subutilizada-da-web-2020-05-26
-
-## Add a PDF on macOS section.
-
-The first tip could be how to merge PDFs using just Preview.app [Tutorial on Setapp](https://setapp.com/how-to/merge-pdf-on-mac)
-
 ## UI Cheat Sheet
 
 https://marcandrew.me/the-ui-ux-cheatsheet/
 https://twitter.com/mrcndrw/status/1283078825870532609
 
-## SQL Style Guide by Gitlab
-
-https://about.gitlab.com/handbook/business-ops/data-team/platform/sql-style-guide/
 
 ## Linear Algebra for Coders
 
 https://github.com/fastai/numerical-linear-algebra/blob/master/README.md
 
-## Pratical Deep Learning for Coders.
-
-### Lesson 1
-
-https://course19.fast.ai/videos/?lesson=1
 
 
 
